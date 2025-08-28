@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Shafi! 👋
 
-<!--
-**shafisma/shafisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about code, tech, and solving real-world problems with software. 🚀
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 💡 Constantly learning and exploring new technologies
+- 🔭 Currently working on exciting open-source and personal projects
+- 🤝 Open to collaboration and new ideas
+- 🌱 Always striving for growth and improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ My Stats
+- 🗓️ Joined GitHub: September 2022
+- 🏗️ Public Repos: 22 (and counting!)
+- 🔗 [Visit my GitHub profile](https://github.com/shafisma)
+
+## 📂 Featured Projects
+<!-- Highlight a few cool repositories here! -->
+- _Details about your repositories can be added here once available._
+
+## 📫 Connect With Me
+- GitHub: [@shafisma](https://github.com/shafisma)
+
+## 🛠️ Languages & Tools
+![Languages](https://skillicons.dev/icons?i=js,ts,python,go,java,html,css,react,vue,git,linux)
+
+## ✨ Fun Facts
+- I follow my curiosity wherever it leads!
+- Always up for a coding challenge or hackathon
+- Believe in sharing knowledge and uplifting the community
+
+---
+
+Thanks for stopping by! ⭐️  
+Let’s build something amazing together.
