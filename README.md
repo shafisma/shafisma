@@ -22,7 +22,7 @@ I'm passionate about code, tech, and solving real-world problems with software. 
 - GitHub: [@shafisma](https://github.com/shafisma)
 
 ## 🛠️ Languages & Tools
-![Languages](https://skillicons.dev/icons?i=js,ts,python,go,java,html,css,react,vue,git,linux)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,react,vue,git)
 
 ## ✨ Fun Facts
 - I follow my curiosity wherever it leads!
@@ -32,4 +32,3 @@ I'm passionate about code, tech, and solving real-world problems with software. 
 ---
 
 Thanks for stopping by! ⭐️  
-Let’s build something amazing together.
