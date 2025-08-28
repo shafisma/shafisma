@@ -9,15 +9,6 @@ I'm passionate about code, tech, and solving real-world problems with software. 
 - 🤝 Open to collaboration and new ideas
 - 🌱 Always striving for growth and improvement
 
-## ⚡ My Stats
-- 🗓️ Joined GitHub: September 2022
-- 🏗️ Public Repos: 22 (and counting!)
-- 🔗 [Visit my GitHub profile](https://github.com/shafisma)
-
-## 📂 Featured Projects
-<!-- Highlight a few cool repositories here! -->
-- _Details about your repositories can be added here once available._
-
 ## 📫 Connect With Me
 - GitHub: [@shafisma](https://github.com/shafisma)
 
