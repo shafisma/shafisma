@@ -7,6 +7,6 @@ I'm passionate about code, tech, and solving real-world problems with software.
 - GitHub: [@shafisma](https://github.com/shafisma)
 
 ## 🛠️ Languages & Tools
-![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,react,vue,git)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,react,vue,git,tailwind,dart,flutter,rust)
 
 Thanks for stopping by! ⭐️  
