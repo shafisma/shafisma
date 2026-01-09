@@ -1,0 +1,39 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: shafisma
+          template: classic
+          config_display: large
+          config_timezone: Asia/Dhaka
+          
+          # Base options
+          base: header, activity, community, repositories, metadata
+          
+          # 1. Languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_colors: "github"
+          plugin_languages_limit: 8
+
+          # 2. Coding Habits (SIMPLIFIED TO FIX ERROR)
+          plugin_habits: yes
+          plugin_habits_from: 200       # Analyzes last 200 events
+          plugin_habits_days: 14        # Last 14 days
+          plugin_habits_facts: yes      # Shows "Most productive..."
+          plugin_habits_charts: no      # DISABLED CHARTS (This is usually what breaks it)
+
+          # 3. Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
