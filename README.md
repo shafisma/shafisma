@@ -4,7 +4,19 @@ Welcome to my GitHub profile!
 I'm passionate about code, tech, and solving real-world problems with software.
 
 ## 📫 Connect With Me
-- GitHub: [@shafisma](https://github.com/shafisma)
+<div align="center">
+  <a href="https://www.instagram.com/sh4fi_dx/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram" />
+  </a>
+  <img width="12" />
+  <a href="mailto:uzzamanshafi511@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" />
+  </a>
+  <img width="12" />
+  <a href="https://discordapp.com/users/1113018429599924224" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord" />
+  </a>
+</div>
 
 ## 🛠️ Languages & Tools
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,react,vue,git,tailwind,dart,flutter,rust)
